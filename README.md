@@ -1,15 +1,35 @@
-# BluTV Checker
+<img src="https://github.com/xkuvvetmira/BluTVChecker/assets/170360459/e754887f-742c-47fa-bd4d-e7c5ef78554f" alt="BluTV" width="50">
 
-BluTV Captured Checker (PC/Mobile)
+### **BluTV Captured Checker** 
 
-Kullanım tamamen türkçedir.
+- *Kullanılabileceği Cihazlar:* **(PC/Mobile)**
 
-    Fiyatı: 75 TL
+- *Programlama Dili:* **Python**
 
-# Tokenli Blutv Web Checker Kurup Satış Yapıp Para Kazanmak İsterseniz Discorddan Ulaşabilirsiniz. 
+- *Proxy/Proxyless:* **Proxyless (Free Proxy)**
 
-    Fiyat: 450 TL
+    * *Not: Neredeyse her işletim sisteminde rahatlıkla kullanılabilir.*
+      
+---------------------------------------------------------------
 
-discord:
+### **Tokenli Blutv Captured Web Checker** 
+*Kurulumunu Yaptıktan Sonra Tokenini Satıp Para Kazanabilirsiniz.*
+
+- *Kullanılabileceği Cihazlar:* **(PC/Mobile)**
+
+- *Programlama Dili:* **Python**
+
+- *Proxy/Proxyless:* **Proxyless (Free Proxy)**
+
+----
+
+### **Fiyatlandırma ve İletişim Adresi**
+
+|   | Ürün   |Fiyat  |
+| --|:-------:| -----:|
+| 1 | BluTV Checker  | 150 TL     |
+| 2 | BluTV Tokenli Web Checker   | 600 TL    |
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="22">   **Discord:**
 
     @kuvvetmira.sago
