@@ -12,7 +12,7 @@
       
 ---------------------------------------------------------------
 
-### **Tokenli Blutv Captured Web Checker** 
+### **Tokenli Blutv Captured Web Checker Altyapı** 
 *Kurulumunu Yaptıktan Sonra Tokenini Satıp Para Kazanabilirsiniz.*
 
 - *Kullanılabileceği Cihazlar:* **(PC/Mobile)**
@@ -23,12 +23,24 @@
 
 ----
 
+### **Tokenli Blutv Captured Discord Bot Checker Altyapı**
+*Kurulumunu Yaptıktan Sonra Tokenini Satıp Para Kazanabilirsiniz.*
+
+- *Kullanılabileceği Cihazlar:* **(PC/Mobile)**
+
+- *Programlama Dili:* **Python**
+
+- *Proxy/Proxyless:* **Proxyless (Free Proxy)**
+
+-----
+
 ### **Fiyatlandırma ve İletişim Adresi**
 
 |   | Ürün   |Fiyat  |
 | --|:-------:| -----:|
 | 1 | BluTV Checker  | 150 TL     |
 | 2 | BluTV Tokenli Web Checker   | 600 TL    |
+| 3 | BluTV Tokenli Discord Bot Altyapı  | 500 TL    |
 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="22">   **Discord:**
 
